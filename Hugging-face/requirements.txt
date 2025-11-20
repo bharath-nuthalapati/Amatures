@@ -1,0 +1,13 @@
+gradio
+modal
+transformers
+torch
+elevenlabs
+mcp
+openai-whisper
+pillow
+scipy
+numpy
+accelerate
+sentencepiece
+protobuf
